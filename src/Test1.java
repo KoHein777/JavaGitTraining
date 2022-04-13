@@ -5,5 +5,6 @@
 public class Test1 {
     public static void main(String[] args) {
         System.out.println("I am learning devops training");
+        System.out.println("I love coding");
     }
 }
